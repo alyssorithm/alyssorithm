@@ -1,5 +1,5 @@
 <h1 align="center">
-  I'm <span style="color:#f5a9b8;">Alyssa Alexandra S. Lee</span>
+  <span style="color:#f5a9b8;">Alyssa Alexandra S. Lee</span>
 </h1>
 
 <p align="center">
