@@ -1,11 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30"/>
-  🌸✨ 𝓱𝓪𝓲~ ✨🌸
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="30"/>
-</p>
-
 <h1 align="center">
-  🧸 I'm <span style="color:#f5a9b8;">Alyssa Alexandra S. Lee</span> 🧸
+  I'm <span style="color:#f5a9b8;">Alyssa Alexandra S. Lee</span>
 </h1>
 
 <p align="center">
@@ -34,9 +28,4 @@
   <a href="https://www.instagram.com/yssaxlee" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
-<br>
-<p align="center">
-  <img src="./dancing-gopher.gif" alt="gopher dancing">
 </p>
